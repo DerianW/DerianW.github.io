@@ -1,0 +1,139 @@
+body
+{
+	background-image: url("../images/paper.jpg");
+}
+
+header
+{
+	background-image: url("../images/zagzig.png");
+	text-align: center;
+	clear: both;
+	margin: 0px;
+	padding: 0px;
+	border-top: solid black;
+	border-bottom: solid black;
+	border-width: 4px;
+}
+h1
+{
+	font-family: 'Alfa Slab One', cursive;
+	color: yellow;
+	font-size: 66px;
+	font-weight: 900;
+	text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black,
+	-8px -5px black, -8px -5px 20px purple;
+	width: 600px;
+	clear: both;
+	margin: auto;
+}
+h2
+{
+	font-family: 'Permanent Marker', cursive;
+	color: black;
+	font-size: 26px;
+	background-image: url("../images/paper.jpg");
+	width: 600px;
+	clear: both;
+	margin: auto;
+	border: ridge;
+}
+h2:hover
+{
+	box-shadow: -8px -3px;
+}
+h3
+{
+	color: white;
+	text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black, 0 0 6px black, 0 0 8px blue;
+	font-weight: 900;
+}
+
+.sm
+{
+	padding: 32px;
+	text-align: center;
+}
+.smm
+{
+	background-color: lime;
+	border: solid orange;
+	width: 400px;
+	text-align: center;
+	margin: auto;
+}
+#ig
+{
+	height: 64px;
+	width: 64px;
+}
+
+#summaries
+{
+	float: left;
+	width: 50%;
+}
+#summariesTitle
+{
+	text-align: center;
+}
+
+.experience
+{
+	float: right;
+	width: 50%;
+	text-align: right;
+}
+
+.projects
+{
+	float: right;
+	width: 50%;
+	text-align: right;
+}
+
+.education
+{
+	float: right;
+	width: 50%;
+	text-align: right;
+}
+
+footer
+{
+	clear: both;
+	margin: auto;
+	text-align: center;
+}
+
+#ensList
+{
+	width: 50%;
+	float: left;
+	margin: auto;
+}
+#insList
+{
+	width: 50%;
+	float: right;
+	margin: auto;
+}
+
+#jobList
+{
+	text-align: left;
+	margin-left: 25%;
+}
+
+.act
+{
+	float: left;
+}
+.pers
+{
+	float: right;
+}
+
+#video
+{
+	clear: both;
+}
